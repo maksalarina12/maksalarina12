@@ -1,4 +1,4 @@
-# ![ngoding-header]([assets/header.gif](programming GIF.gif)
+# ![ngoding-header]([assets/header.gif](programming GIF.gif))
 
 # Nama-Proyek
 Deskripsi singkat tentang proyek ini: apa yang dilakukan, untuk siapa, dan kenapa dibuat.
