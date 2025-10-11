@@ -12,9 +12,9 @@
 
 ### 🚀 About Me  
 
-🎓 A passionate **Computer Engineering Student** from **Universitas Syiah Kuala**  
-🐧 Linux lover — currently using **Linux** as main OS  
-🧠 Interested in **Cybersecurity**, **Web Designers**, and **IoT Systems**  
+- 🎓 A passionate **Computer Engineering Student** from **Universitas Syiah Kuala**  
+- 🐧 Linux lover — currently using **Linux** as main OS  
+- 🧠 Interested in **Cybersecurity**, **Web Designers**, and **IoT Systems**  
 
 --
 
