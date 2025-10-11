@@ -4,7 +4,7 @@
 </p>
 
 <!-- Title -->
-<h1 align="center">⚡ Hi, I'm <span style="color:#b366ff;">SamVivan</span> ⚡</h1>
+<h1 align="center">⚡ Hi, I'm <span style="color:#b366ff;">MAKSALMINA</span> ⚡</h1>
 <h3 align="center">💻 Computer Engineering Student | 🔒 Cybersecurity Learner | 🛠️ Embedded Learner</h3>
 
 ---
