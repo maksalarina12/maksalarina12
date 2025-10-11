@@ -1,16 +1,17 @@
-## Hi there 👋
+# ![ngoding-header]([assets/header.gif](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2JycjZvNW95MWRvZWFyZ2k1eGJvZnEwODdxeHVhNGJiNWdwemt1cCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/93UOscPyDH8cdRfSaT/giphy.gif))
 
-<!--
-**maksalarina12/maksalarina12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Nama-Proyek
+Deskripsi singkat tentang proyek ini: apa yang dilakukan, untuk siapa, dan kenapa dibuat.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ Fitur
+- Fitur 1: Penjelasan singkat.
+- Fitur 2: Penjelasan singkat.
+- Fitur 3: Penjelasan singkat.
+
+## 🚀 Mulai cepat (Quickstart)
+**Clone** repo:
+```bash
+git clone https://github.com/username/nama-proyek.git
+cd nama-proyek
