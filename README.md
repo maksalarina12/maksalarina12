@@ -5,8 +5,8 @@
 <h1 align="center">WELCOME TO HOOMIES DAWG</h1>
 
 <p align="center">
-  Deskripsi singkat tentang proyek ini.  
-  Misalnya: aplikasi simulasi, sistem informasi, atau proyek belajar coding seru!
+  Hiduplah seperti Computer,
+  Kalau ga padam ya meledak....
 </p>
 
 ---
