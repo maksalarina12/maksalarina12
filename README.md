@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="assets/programming%20GIF.gif" alt="Coding GIF" width="800"/>
+  <img src="programming GIF.gif" alt="Coding GIF" width="800"/>
 </h1>
 
 <h1 align="center">💻 Nama Proyek Kamu</h1>
