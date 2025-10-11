@@ -11,15 +11,9 @@
 
 ---
 
-## 🚀 Fitur Utama
-- 🔹 Fitur 1 — Penjelasan singkat
-- 🔹 Fitur 2 — Penjelasan singkat
-- 🔹 Fitur 3 — Penjelasan singkat
+## 🚀 Project
+- 🔹 -
+- 🔹 -
+- 🔹 -
 
 ---
-
-## 🧩 Instalasi & Menjalankan
-Clone repositori:
-```bash
-git clone https://github.com/username/nama-proyek.git
-cd nama-proyek
