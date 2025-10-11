@@ -1,23 +1,3 @@
-<h1 align="center">
-  <img src="programming GIF.gif" alt="Coding GIF" width="800"/>
-</h1>
-
-<h1 align="center">WELCOME TO HOOMIES DAWG</h1>
-
-<p align="center">
-  Hiduplah seperti Computer,
-  Kalau ga padam ya meledak....
-</p>
-
----
-
-## 🚀 Project
-- 🔹 -
-- 🔹 -
-- 🔹 -
-
----
-
 <!-- Header Gif -->
 <p align="center" style="margin: 0; padding: 0;">
   <img src="programming GIF.gif"" alt="Hi, I'm MAKSALMINA!" style="width:100%; height:auto; object-fit:cover; display:block; margin:0; padding:0;" />
@@ -36,3 +16,8 @@
 - 🧠 Interested in **Cybersecurity**, **Web Designers**, and **IoT Systems**  
 
 --
+
+## 🚀 Project
+- 🔹 -
+- 🔹 -
+- 🔹 -
