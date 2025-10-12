@@ -4,7 +4,7 @@
 </p>
 
 <!-- Title -->
-<h1 align="center">⚡ Hi, I'm <span style="color:#b366ff;">MAKSALMINA ARINA</span> ⚡</h1>
+<h1 align="center"> Hi, I'm <span style="color:#b366ff;">MAKSALMINA ARINA</span> </h1>
 <h3 align="center">Hidup seperti Computer, Kalau ga padam ya meledug</h3>
 <h3 align="center">💻 Computer Engineering Student | 🔒 Cybersecurity Enthusiast | 🛠️DevOps & IoT Learner</h3>
 
