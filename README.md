@@ -1,6 +1,6 @@
 <!-- Header Gif -->
 <p align="center" style="margin: 0; padding: 0;">
-  <img src="prograammer GIF.gif" alt="Hi, I'm MAKSALMINA ARINA!" style="width:100%; height:auto; object-fit:cover; display:block; margin:0; padding:0;" />
+  <img src="programming GIF.gif" alt="Hi, I'm MAKSALMINA ARINA!" style="width:100%; height:auto; object-fit:cover; display:block; margin:0; padding:0;" />
 </p>
 
 <!-- Title -->
@@ -12,8 +12,7 @@
 ### 🚀 About Me  
 
 - 🎓 A passionate **Computer Engineering Student** from **Universitas Syiah Kuala**  
-- 🐧 Linux lover — currently using **Fedora** as main OS  
-- 🧠 Interested in **Cybersecurity**, **DevOps**, and **IoT Systems**  
-- 🧩 Always experimenting with **Homelab**, **Dockerized services**, and **automation agents**  
+- 🐧 Linux lover — currently using **Linux** as main OS  
+- 🧠 Interested in **Cybersecurity**, **Web Development**, **DevOps**, and **IoT Systems**  
 
 ---
