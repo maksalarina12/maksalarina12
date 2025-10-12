@@ -3,10 +3,9 @@
   <img src="programming GIF.gif" alt="Hi, I'm MAKSALMINA ARINA!" style="width:100%; height:auto; object-fit:cover; display:block; margin:0; padding:0;" />
 </p>
 
-<h3 align="center">💻 Computer Engineering Student | 🔒 Cybersecurity Enthusiast | 🛠️DevOps & IoT Learner</h3>
-
 <!-- Title -->
 <h1 align="center">⚡ Hi, I'm <span style="color:#b366ff;">MAKSALMINA ARINA</span> ⚡</h1>
+<h3 align="center">Hidup seperti Computer, Kalau ga padam ya meledug</h3>
 <h3 align="center">💻 Computer Engineering Student | 🔒 Cybersecurity Enthusiast | 🛠️DevOps & IoT Learner</h3>
 
 ---
