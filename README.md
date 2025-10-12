@@ -18,6 +18,28 @@
 
 ---
 
+### 🔗 Connect with me:
+
+<p align="center">
+  <a href="https://github.com/maksalarina12" target="_blank"> 
+    <img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.instagram.com/arym.max" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/maksalmina-arina-21688734a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://app.hackthebox.com/profile" target="_blank">
+    <img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white" />
+  </a>
+  <a href="https://tryhackme.com/p/" target="_blank">
+    <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ### 🛠️ Tech Stack  
 
 <p align="center"> 
