@@ -19,13 +19,12 @@ jobs:
           theme: dark
           base_color: D4AF37
           config_timezone: Asia/Jakarta
+          config_display: compact
 
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
-          plugin_languages_limit: 8
-
-          plugin_habits: yes
-          plugin_habits_charts: yes
+          plugin_languages_limit: 6
+          plugin_languages_threshold: 2%
 
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year
