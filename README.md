@@ -8,7 +8,7 @@
 
 **Founder · AI Engineer · Cybersecurity**
 
-Building systems that don't break — and fixing the ones that do.
+Building systems that don't break - and fixing the ones that do.
 
 [Portfolio](https://maksalminaarina.maksalbusiness.workers.dev/) · [LinkedIn](https://www.linkedin.com/in/maksalmina-arina-21688734a) · [Email](mailto:lalomeproject@gmail.com)
 
@@ -27,7 +27,7 @@ Currently focused on:
 
 <br>
 
-## Company — PT Arina Digital Mandiri
+## Company - PT Arina Digital Mandiri
 
 Six business units under one holding company, spanning IT, SaaS, fashion, music, and security.
 
@@ -46,14 +46,40 @@ Full case studies and details: **[arinadigitalmandiri.my.id](https://arinadigita
 
 ## Stack
 
-```
-Systems      Ubuntu · Arch Linux · Docker
-Languages    Python · JavaScript
-Frontend     React · Tailwind CSS
-Backend      Node.js
-Cloud        AWS · Cloudflare Workers
-Hardware     Arduino / IoT
-```
+**Languages**
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+
+**Frontend**
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+
+**Backend & Infra**
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+<img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" />
+
+**Cloud**
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+
+**AI / Data Labeling**
+
+<img src="https://img.shields.io/badge/Label_Studio-1A1A2E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LabelImg-4B8BBE?style=for-the-badge" />
+<img src="https://img.shields.io/badge/CVAT-00A98F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white" />
+
+**Hardware**
+
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
 
 <br>
 
