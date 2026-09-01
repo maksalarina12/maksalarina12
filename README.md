@@ -1,10 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1A1A1A,100:D4AF37&height=220&section=header&text=MAKSALMINA%20ARINA&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Founder%20%C2%B7%20AI%20Engineer%20%C2%B7%20Cybersecurity&descAlignY=58&descColor=D4AF37&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,40:0D0D0D,100:D4AF37&height=260&section=header&text=MAKSALMINA%20ARINA&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Founder%20%C2%B7%20AI%20Engineer%20%C2%B7%20Cybersecurity&descAlignY=56&descColor=D4AF37&descSize=18&animation=fadeIn" width="100%"/>
 
-<br>
+<img src="https://maksalminaarina.maksalbusiness.workers.dev/avatar.jpeg" width="130" style="border-radius:50%;" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Georgia&size=20&pause=1200&color=D4AF37&center=true&vCenter=true&width=650&lines=Building+systems+that+don't+break;Founding+ARINA+DIGITAL+MANDIRI;Security+%2B+Code+%2B+Sound;Banda+Aceh%2C+Indonesia" alt="Typing SVG" />
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=21&pause=1200&color=D4AF37&center=true&vCenter=true&width=680&lines=Building+empires+in+code+and+sound;Founding+ARINA+DIGITAL+MANDIRI;Security+%2B+Systems+%2B+Sound;Banda+Aceh%2C+Indonesia" alt="Typing SVG" />
 
 <br><br>
 
@@ -16,19 +18,21 @@
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,50:FFFFFF,100:D4AF37&height=2&width=1000" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0D0D0D&height=3&width=1000" width="100%"/>
+<h2 align="center">⟡ &nbsp; About &nbsp; ⟡</h2>
 
-## ⟡ &nbsp; About
-
-<table>
+<table align="center" width="100%">
 <tr>
 <td width="100%">
 
 Computer Engineering student at **Universitas Syiah Kuala**, based in Banda Aceh, Indonesia. Founder of **PT Arina Digital Mandiri**, a holding company built across IT consulting, SaaS products, and cybersecurity. Work is split between backend systems, network security, and infrastructure — Linux as the daily driver, precision as the standard.
 
-> *"Hidup seperti computer — kalau tidak padam, ya meledak."*
+<div align="center">
+
+*"Hidup seperti computer — kalau tidak padam, ya meledak."*
+
+</div>
 
 **Currently engaged in**
 &nbsp;&nbsp;◆ Offensive & defensive security — HackTheBox, TryHackMe
@@ -40,58 +44,38 @@ Computer Engineering student at **Universitas Syiah Kuala**, based in Banda Aceh
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0D0D0D&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,50:FFFFFF,100:D4AF37&height=2&width=1000" width="100%"/>
 
-## ⟡ &nbsp; PT Arina Digital Mandiri
+<h2 align="center">⟡ &nbsp; PT Arina Digital Mandiri &nbsp; ⟡</h2>
 
 <div align="center">
 
 <table>
 <tr>
-<th align="left">Unit</th>
-<th align="left">Focus</th>
+<th align="left">&nbsp;Unit&nbsp;</th>
+<th align="left">&nbsp;Focus&nbsp;</th>
 </tr>
-<tr><td>🏛️ <a href="https://kvfldigital.arinadigitalmandiri.my.id/"><b>KVFL Digital</b></a></td><td>IT consulting & web development</td></tr>
-<tr><td>🍽️ <a href="https://firishos.my.id/"><b>Firish.OS</b></a></td><td>Restaurant operating system — POS, KDS, multi-outlet</td></tr>
-<tr><td>📜 <a href="https://agrebrief.my.id/"><b>AgreBrief</b></a></td><td>B2B contract website generator</td></tr>
-<tr><td>🛡️ <a href="https://aeegis.aryiion.my.id/"><b>AEEGIS SYSTEM</b></a></td><td>Web security & cybersecurity platform</td></tr>
-<tr><td>🎙️ <a href="https://maxxmsx.arinadigitalmandiri.my.id/"><b>MAXXMSX Records</b></a></td><td>Independent music label</td></tr>
-<tr><td>🖤 <a href="https://silentghoststore.arinadigitalmandiri.my.id/"><b>Silent Ghost Storez</b></a></td><td>Creative fashion</td></tr>
+<tr><td>&nbsp;🏛️ <a href="https://kvfldigital.arinadigitalmandiri.my.id/"><b>KVFL Digital</b></a>&nbsp;</td><td>&nbsp;IT consulting & web development&nbsp;</td></tr>
+<tr><td>&nbsp;🍽️ <a href="https://firishos.my.id/"><b>Firish.OS</b></a>&nbsp;</td><td>&nbsp;Restaurant OS — POS, KDS, multi-outlet&nbsp;</td></tr>
+<tr><td>&nbsp;📜 <a href="https://agrebrief.my.id/"><b>AgreBrief</b></a>&nbsp;</td><td>&nbsp;B2B contract website generator&nbsp;</td></tr>
+<tr><td>&nbsp;🛡️ <a href="https://aeegis.aryiion.my.id/"><b>AEEGIS SYSTEM</b></a>&nbsp;</td><td>&nbsp;Web security & cybersecurity platform&nbsp;</td></tr>
+<tr><td>&nbsp;🎙️ <a href="https://maxxmsx.arinadigitalmandiri.my.id/"><b>MAXXMSX Records</b></a>&nbsp;</td><td>&nbsp;Independent music label&nbsp;</td></tr>
+<tr><td>&nbsp;🖤 <a href="https://silentghoststore.arinadigitalmandiri.my.id/"><b>Silent Ghost Storez</b></a>&nbsp;</td><td>&nbsp;Creative fashion&nbsp;</td></tr>
 </table>
 
 **[→ arinadigitalmandiri.my.id](https://arinadigitalmandiri.my.id)**
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0D0D0D&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,50:FFFFFF,100:D4AF37&height=2&width=1000" width="100%"/>
 
-## ⟡ &nbsp; Stack
+<h2 align="center">⟡ &nbsp; Stack &nbsp; ⟡</h2>
 
 <div align="center">
 
-**Languages**
-<br>
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=D4AF37" />
-<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=D4AF37" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=D4AF37" />
+<img src="https://skillicons.dev/icons?i=py,ts,js,nextjs,react,tailwind,nodejs,docker,linux,archlinux,aws,cloudflare,arduino&theme=dark" />
 
-**Frontend**
-<br>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=D4AF37" />
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=D4AF37" />
-<img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=for-the-badge&logo=tailwindcss&logoColor=D4AF37" />
-
-**Backend & Infra**
-<br>
-<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=D4AF37" />
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=D4AF37" />
-<img src="https://img.shields.io/badge/Ubuntu-000000?style=for-the-badge&logo=ubuntu&logoColor=D4AF37" />
-<img src="https://img.shields.io/badge/Arch_Linux-000000?style=for-the-badge&logo=arch-linux&logoColor=D4AF37" />
-
-**Cloud**
-<br>
-<img src="https://img.shields.io/badge/AWS-000000?style=for-the-badge&logo=amazonaws&logoColor=D4AF37" />
-<img src="https://img.shields.io/badge/Cloudflare_Workers-000000?style=for-the-badge&logo=cloudflare&logoColor=D4AF37" />
+<br><br>
 
 **AI / Data Labeling**
 <br>
@@ -100,17 +84,14 @@ Computer Engineering student at **Universitas Syiah Kuala**, based in Banda Aceh
 <img src="https://img.shields.io/badge/CVAT-000000?style=for-the-badge&logoColor=D4AF37" />
 <img src="https://img.shields.io/badge/Roboflow-000000?style=for-the-badge&logo=roboflow&logoColor=D4AF37" />
 
-**Hardware**
-<br>
-<img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=D4AF37" />
-
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0D0D0D&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,50:FFFFFF,100:D4AF37&height=2&width=1000" width="100%"/>
 
-## ⟡ &nbsp; GitHub Activity
+<h2 align="center">⟡ &nbsp; GitHub Activity &nbsp; ⟡</h2>
 
 <div align="center">
+
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maksalarina12&show_icons=true&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF&border_color=D4AF37" width="48%" />
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maksalarina12&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=FFFFFF&border_color=D4AF37" width="38%" />
 
@@ -118,11 +99,15 @@ Computer Engineering student at **Universitas Syiah Kuala**, based in Banda Aceh
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=maksalarina12&hide_border=true&background=0D0D0D&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A" width="60%" />
 
+<br><br>
+
+<img src="https://github-profile-trophy.vercel.app/?username=maksalarina12&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" width="90%" />
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,100:0D0D0D&height=3&width=1000" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:D4AF37,50:FFFFFF,100:D4AF37&height=2&width=1000" width="100%"/>
 
-## ⟡ &nbsp; Elsewhere
+<h2 align="center">⟡ &nbsp; Elsewhere &nbsp; ⟡</h2>
 
 <div align="center">
 
@@ -133,7 +118,7 @@ Computer Engineering student at **Universitas Syiah Kuala**, based in Banda Aceh
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:1A1A1A,100:D4AF37&height=120&section=footer&width=100%25" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:D4AF37,60:0D0D0D,100:000000&height=140&section=footer" width="100%"/>
 
 <div align="center">
 <sub><b>BANDA ACEH, INDONESIA</b> &nbsp;·&nbsp; PT ARINA DIGITAL MANDIRI &nbsp;·&nbsp; © 2026</sub>
