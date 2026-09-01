@@ -92,16 +92,12 @@ Computer Engineering student at **Universitas Syiah Kuala**, based in Banda Aceh
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=maksalarina12&show_icons=true&hide_border=true&count_private=true&bg_color=0D0D0D&title_color=D4AF37&icon_color=D4AF37&text_color=FFFFFF&border_color=D4AF37" width="48%" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=maksalarina12&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=D4AF37&text_color=FFFFFF&border_color=D4AF37" width="38%" />
-
-<br>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=maksalarina12&hide_border=true&background=0D0D0D&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8A8A8A" width="60%" />
 
 <br><br>
 
-<img src="https://github-profile-trophy.vercel.app/?username=maksalarina12&theme=darkhub&no-frame=true&row=1&column=7&margin-w=8" width="90%" />
+<!-- Self-hosted metrics, generated daily by .github/workflows/metrics.yml — no third-party API dependency -->
+<img src="https://raw.githubusercontent.com/maksalarina12/maksalarina12/main/github-metrics.svg" width="100%" />
 
 </div>
 
