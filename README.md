@@ -26,16 +26,16 @@
 <tr>
 <td width="100%">
 
-Computer Engineering student at **Universitas Syiah Kuala**, based in Banda Aceh, Indonesia. Founder of **PT Arina Digital Mandiri**, a holding company built across IT consulting, SaaS products, and cybersecurity. Work is split between backend systems, network security, and infrastructure — Linux as the daily driver, precision as the standard.
+Computer Engineering student at **Universitas Syiah Kuala**, based in Banda Aceh, Indonesia. Founder of **PT Arina Digital Mandiri**, a holding company built across IT consulting, SaaS products, and cybersecurity. Work is split between backend systems, network security, and infrastructure Linux as the daily driver, precision as the standard.
 
 <div align="center">
 
-*"Hidup seperti computer — kalau tidak padam, ya meledak."*
+*"DO-DOIT"*
 
 </div>
 
 **Currently engaged in**
-&nbsp;&nbsp;◆ Offensive & defensive security — HackTheBox, TryHackMe
+&nbsp;&nbsp;◆ Offensive & defensive security - HackTheBox, TryHackMe
 &nbsp;&nbsp;◆ Full-stack web development & DevOps tooling
 &nbsp;&nbsp;◆ IoT systems & embedded programming
 &nbsp;&nbsp;◆ Independent music production under **ARYIION**
